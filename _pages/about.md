@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Hsujeng Tsai , a Imformation Management MS student at NTUST.
+
+
+Hello, I'm Hsujeng Tsai , a Information Management MS student at NTUST.
+My current research focuses on Natural Language Processing(NLP).
