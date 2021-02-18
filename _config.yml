@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Hsujeng Tsai"
-  avatar           : "certificate.png"
+  avatar           : "certificate.jpg"
   bio              : "NTUST MIS "
   location         : "TW"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jengjeng0327"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hsujeng-tsai-40b77b1b9/"
   orcid            : 
   pinterest        :
   soundcloud       :
